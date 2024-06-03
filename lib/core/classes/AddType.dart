@@ -1,0 +1,1 @@
+enum AddType { MAIN,SUB,SHOP,OFFER }
